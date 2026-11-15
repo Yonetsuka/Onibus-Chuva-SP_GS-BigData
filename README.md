@@ -8,9 +8,7 @@
 |---|---|
 | Cássio Eid Kobayashi Yonetsuka | RM99678 |
 | Filipe Prado Menezes | RM98765 |
-| Gabriel Gomes Catanzaro | RM93445 |
-| Henrique Canali Cuzato | RM551326 |
-| Lucas Gomes Alcântara | RM98766 |
+| Pedro Salvitti | RM |
 
 ## Ficha Técnica do MVP
 
